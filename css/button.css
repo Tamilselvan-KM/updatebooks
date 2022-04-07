@@ -1,0 +1,11 @@
+.actBtn{
+    display: none;
+}
+@media only screen and (max-width: 600px){
+    .actBtnOne{
+        display: none;
+    }
+    .actBtn{
+        display: block;
+    }
+}
